@@ -1,7 +1,7 @@
 NBA_draft_classification
 ==============================
 
-Building a classifier to predict if college NBA player will be drafted based on statistics
+Building a classifier to predict if college NBA player will be drafted based on statistics for the current season.
 
 Project Organization
 ------------
